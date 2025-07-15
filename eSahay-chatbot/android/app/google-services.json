@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850690027713",
+    "project_id": "esahay-fb401",
+    "storage_bucket": "esahay-fb401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850690027713:android:d6cae712c469987060e440",
+        "android_client_info": {
+          "package_name": "com.example.esahay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0WzaadOPCWlY_03kBEJE63wsFFvUo1Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
