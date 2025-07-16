@@ -58,13 +58,13 @@ langflow run
     Mistral via Ollama
     nomic-embed-text for embedding
 
--RAG for retrieval and generation
--Export the JSON file (e.g., Esahay Chatbot.json).
+- RAG for retrieval and generation
+- Export the JSON file (e.g., Esahay Chatbot.json).
 
 ## 📱 Flutter Frontend Setup
 ### 📦 Prerequisites
--Flutter SDK
--Android Studio / VS Code with emulator or physical device
+- Flutter SDK
+- Android Studio / VS Code with emulator or physical device
 
 ### 📲 Run the App
 Open the Flutter project (chatbot.dart).
@@ -90,16 +90,16 @@ The chatbot interface is designed to send user queries to Flask backend and rece
 ## 📸 Screenshots
 ## 📊 Langflow Screens
 
-<img src="https://github.com/user-attachments/assets/cad15bf9-1853-49da-872b-3830b778983a" alt="Langflow Flow 1" width="936" height="602" />
+<img src="https://github.com/user-attachments/assets/cad15bf9-1853-49da-872b-3830b778983a" alt="Langflow Flow 1" width="800" height="500" />
 <br/>
-<img src="https://github.com/user-attachments/assets/5a04619d-37c1-49b3-8489-c3221725ad79" alt="Langflow Flow 2" width="951" height="618" />
+<img src="https://github.com/user-attachments/assets/5a04619d-37c1-49b3-8489-c3221725ad79" alt="Langflow Flow 2" width="800" height="500" />
 
 ---
 
 ## 📱 Flutter App Screens
 
-<img src="https://github.com/user-attachments/assets/30357b8d-851b-4daf-ac2e-62fcff801285" alt="Flutter App Screen 1" width="436" height="823" />
+<img src="https://github.com/user-attachments/assets/30357b8d-851b-4daf-ac2e-62fcff801285" alt="Flutter App Screen 1" width="300" />
 <br/>
-<img src="https://github.com/user-attachments/assets/be1091a1-e282-404a-8478-823a6cae6b88" alt="Flutter App Screen 2" width="488" height="917" />
+<img src="https://github.com/user-attachments/assets/be1091a1-e282-404a-8478-823a6cae6b88" alt="Flutter App Screen 2" width="300"  />
 <br/>
-<img src="https://github.com/user-attachments/assets/96b5a03e-db72-4141-b413-185cea643583" alt="Flutter App Screen 3" width="488" height="842" />
+<img src="https://github.com/user-attachments/assets/96b5a03e-db72-4141-b413-185cea643583" alt="Flutter App Screen 3" width="300"  />
