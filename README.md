@@ -90,9 +90,9 @@ The chatbot interface is designed to send user queries to Flask backend and rece
 ## 📸 Screenshots
 ## 📊 Langflow Screens
 
-<img src="https://github.com/user-attachments/assets/cad15bf9-1853-49da-872b-3830b778983a" alt="Langflow Flow 1" width="800" height="500" />
+<img src="https://github.com/user-attachments/assets/cad15bf9-1853-49da-872b-3830b778983a" alt="Langflow Flow 1" width="700" height="500" />
 <br/>
-<img src="https://github.com/user-attachments/assets/5a04619d-37c1-49b3-8489-c3221725ad79" alt="Langflow Flow 2" width="800" height="500" />
+<img src="https://github.com/user-attachments/assets/5a04619d-37c1-49b3-8489-c3221725ad79" alt="Langflow Flow 2" width="700" height="500" />
 
 ---
 
